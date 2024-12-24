@@ -1,6 +1,7 @@
 ## Pac-Man Game
 
 ![imagen](https://github.com/user-attachments/assets/819ae954-c5e6-4a71-805c-d6e81f106a62)
+<br>
 ![imagen](https://github.com/user-attachments/assets/2f8170c1-e740-431b-a5ac-c816052e081c)
 
 
