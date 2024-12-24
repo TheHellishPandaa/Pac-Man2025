@@ -8,7 +8,7 @@ This project is a browser-based implementation of the classic Pac-Man arcade gam
 
    Clone the repository:
 
-    git clone https://github.com/yourusername/Pac-Man2025.git
+    git clone https://github.com/TheHellishPandaa/Pac-Man2025.git
 
  Open index.html in a web browser.
  Use arrow keys to play the game.
