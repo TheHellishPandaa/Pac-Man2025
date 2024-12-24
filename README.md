@@ -20,6 +20,6 @@ This project is a browser-based implementation of the classic Pac-Man arcade gam
 
 ## Technologies Used
 
-  JavaScript: Game logic and interactivity.
-  HTML: Structure and layout.
-  CSS: Styling and animations.
+  - ```JavaScript```: Game logic and interactivity.
+  - ```HTML```: Structure and layout.
+  - ```CSS```: Styling and animations.
