@@ -1,6 +1,8 @@
 ## Pac-Man Game
 
 ![imagen](https://github.com/user-attachments/assets/819ae954-c5e6-4a71-805c-d6e81f106a62)
+![imagen](https://github.com/user-attachments/assets/2f8170c1-e740-431b-a5ac-c816052e081c)
+
 
 
 This project is a browser-based implementation of the classic Pac-Man arcade game, written in JavaScript, HTML, and CSS. The game recreates the nostalgic experience of navigating Pac-Man through a maze, eating dots, and avoiding ghosts.
