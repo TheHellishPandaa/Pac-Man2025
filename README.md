@@ -4,11 +4,11 @@ This project is a browser-based implementation of the classic Pac-Man arcade gam
 
 ## Features
 - Classic Gameplay: Guide Pac-Man through the maze to eat all the dots and avoid ghosts.
-- Ghost AI: Ghosts dynamically chase Pac-Man with varying behaviors.
+- Ghost: Ghosts dynamically chase Pac-Man with varying behaviors.
 - Responsive Controls: Use keyboard arrow keys to navigate Pac-Man.
 - Scoring System: Track your score as Pac-Man eats dots and power-ups.
 - Power-Ups: Consume larger dots to temporarily turn ghosts vulnerable.
-- 
+  
 ## How to Run
 
    Clone the repository:
