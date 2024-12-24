@@ -4,7 +4,7 @@ This project is a browser-based implementation of the classic Pac-Man arcade gam
 
 ## Features
 
-How to Run
+## How to Run
 
    Clone the repository:
 
