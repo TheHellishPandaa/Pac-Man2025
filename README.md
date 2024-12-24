@@ -13,7 +13,7 @@ How to Run
  Open index.html in a web browser.
  Use arrow keys to play the game.
 
-Technologies Used
+## Technologies Used
 
   JavaScript: Game logic and interactivity.
   HTML: Structure and layout.
