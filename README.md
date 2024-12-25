@@ -31,3 +31,7 @@ This project is a browser-based implementation of the classic Pac-Man arcade gam
   - ```JavaScript```: Game logic and interactivity.
   - ```HTML```: Structure and layout.
   - ```CSS```: Styling and animations.
+
+## License
+
+COPIRYGHT &COPY; 2025: Jaime Galvez Martinez; This project is released under GNU General Public License
